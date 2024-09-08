@@ -1,0 +1,4 @@
+Flask==2.0.2
+pytube==12.1.0
+youtube-transcript-api==0.4.4
+google-cloud-speech==2.8.0
